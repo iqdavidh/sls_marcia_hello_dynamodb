@@ -1,0 +1,17 @@
+{
+  "name": "serverless-hello-world-dynamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "davidh <david@productividadti.com.mx> (productividadti.com.mx)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.511.0",
+    "serverless-dynamodb-local": "^0.2.38",
+    "uuid": "^3.3.2"
+  }
+}
