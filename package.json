@@ -10,7 +10,7 @@
   "author": "davidh <david@productividadti.com.mx> (productividadti.com.mx)",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.511.0",
+    "aws-sdk": "^2.814.0",
     "serverless-dynamodb-local": "^0.2.38",
     "uuid": "^3.3.2"
   }
